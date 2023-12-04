@@ -4,9 +4,9 @@ const Footer = () => (
   <Box
     textAlign="center"
     p="5"
-    color="grey.600"
+    color="gray.600"
     borderTop="1px"
-    borderColor="grey.100"
+    borderColor="gray.100"
   >
     2023 Realtor, Inc.
   </Box>
