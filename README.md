@@ -1,1 +1,1 @@
-website link :- https://sr-homes-realestate.vercel.app/
+website link :- sr-homes-realestate.vercel.app/
